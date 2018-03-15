@@ -2,6 +2,7 @@ function* testMe(){
     yield value = 0
     yield value = 1
     yield value = 2
+    return "is-a-secrett"
     yield value = 3
 }
 
